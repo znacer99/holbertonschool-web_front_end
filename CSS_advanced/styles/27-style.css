@@ -192,8 +192,9 @@ ul.row{
     padding-top: 1rem;
     color: var(--color-primary);
 }
-.section-hero {
-    background-color: 90rem auto;
+
+.section-hero{
+    background-size: 90rem auto;    
 }
 .section-hero .section-title{
     margin-bottom: 5rem;
