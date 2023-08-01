@@ -102,15 +102,17 @@ ul.row{
 .footer ul{
     text-align: right;
 }
-.footer-adress {
+
+.footer-address{
     color: var(--text-color);
 }
-.social-link {
+.social-link{
     display: block;
 }
-.social-link > svg {
+.social-link > svg{
     fill: var(--text-color);
 }
+
 .container{
     width: 960px;
     margin-left: auto;
@@ -133,6 +135,7 @@ ul.row{
 .footer {
     padding: var(--footer-padding);
 }
+
 .section-title {
     font-family: var(--font-family-title);
     font-size: var(--font-size-xx-large);
